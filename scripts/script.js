@@ -1,3 +1,4 @@
+
 const operators = ["+", "-", "/", "*"];
 let firstNum = true;
 let numbers = [];
